@@ -1,0 +1,104 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammara-ilyas&" alt="ammara-ilyas" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=piyushgarg-dev" alt="piyushgarg-dev" />
+  </a>
+</p>
+
+As a skilled React.Js Developer with proficiency in JavaScript / Typescript / React.Js / Redux Toolkit / Next.Js / Bootstrap / Tailwind CSS / Material UI / HTML5 / CSS3 / Node.Js / Express.Js/GIT/JIRA/GitBash and MongoDb. I am eager to take on new challenges and contribute to a technology-driven company. With a passion for staying up-to-date with the latest web development trends, I am flexible and adaptable to learn and utilize any new technology that comes my way. I am committed to playing a responsible and key role in an organization that values a progressive, ethical, and competitive work culture.
+
+User
+20 interview question answer of style cascading
+ChatGPT
+Certainly! Here are 20 interview questions and answers related to Cascading Style Sheets (CSS):
+
+What is CSS?
+CSS stands for Cascading Style Sheets. It is a style sheet language used for describing the presentation of a document written in markup language like HTML.
+
+What are the advantages of using CSS?
+CSS separates content from presentation, making it easier to maintain and update websites. It also allows for greater consistency across a website and facilitates faster page loading times. enables responsive design, and adheres to global web standards, saving time 
+
+What is the purpose of cascading in CSS?
+Cascading in CSS refers to the process of combining multiple style sheets and resolving conflicts between conflicting styles.
+
+Explain the concept of specificity in CSS.
+Specificity determines which CSS rule is applied to an element when multiple rules have conflicting selectors. It is calculated based on the selector's type, class, ID, and inline styles.
+
+What are the different ways to include CSS in a web page?
+CSS can be included in a web page using external style sheets, internal style sheets, or inline styles.
+
+What is the box model in CSS?
+The box model in CSS describes how elements are rendered on a web page, including their content, padding, border, and margin.
+
+How can you center an element horizontally and vertically in CSS?
+You can center an element horizontally using the margin: 0 auto; property and vertically using flexbox or CSS Grid techniques.
+
+What is the difference between display: block, display: inline, and display: inline-block?
+display: block makes an element a block-level element, display: inline makes it an inline-level element, and display: inline-block makes it behave like an inline element but with block-level properties.
+
+What is the purpose of the float property in CSS?
+The float property is used to align elements to the left or right within their containing element, allowing other content to wrap around them.
+
+Explain the difference between position: relative, position: absolute, and position: fixed.
+position: relative positions an element relative to its normal position, position: absolute positions it relative to its nearest positioned ancestor, and position: fixed positions it relative to the viewport.
+
+How do you handle browser compatibility issues in CSS?
+Browser compatibility issues can be addressed by using vendor prefixes, feature detection, and progressive enhancement techniques like graceful degradation.
+
+What is a CSS preprocessor, and why would you use one?
+A CSS preprocessor extends the functionality of CSS by adding features like variables, nesting, and mixins. It helps in writing maintainable and efficient CSS code.
+
+What is the box-sizing property, and why is it useful?
+The box-sizing property determines how the width and height of an element are calculated, including or excluding padding and border. It helps in creating predictable layouts.
+
+Explain the difference between em and rem units in CSS.
+em units are relative to the font size of the element itself, while rem units are relative to the font size of the root element (html).
+
+How do you implement responsive design using CSS?
+Responsive design can be implemented using media queries, flexible layouts (such as percentages or flexbox), and fluid images.
+
+What is the CSS z-index property used for?
+The z-index property determines the stacking order of elements on a web page, allowing you to control which elements appear on top of others.
+
+What is the purpose of the @media rule in CSS?
+The @media rule is used to apply different styles based on the characteristics of the device, such as screen size, orientation, and resolution.
+
+How can you optimize CSS for better performance?
+CSS performance can be improved by minimizing the use of !important, reducing redundancy in stylesheets, and using shorthand properties.
+
+What are CSS sprites, and how do they work?
+CSS sprites combine multiple images into a single image file and use CSS background positioning to display specific images within a web page. This technique reduces the number of server requests and improves page load times.
+
+What is the currentColor keyword in CSS, and when would you use it?
+The currentColor keyword represents the computed value of the color property and can be used to make an element's border, outline, or box shadow match its text color dynamically.
+
+
+
+CSS stands for Cascading Style Sheets. It is a style sheet language used to describe the presentation of a document written in a markup language like HTML. CSS describes how HTML elements should be displayed on screen, in print, or in other media.
+CSS is a style sheet language used to control the presentation and appearance of HTML elements on a webpage.
+It allows developers to define styles such as colors, fonts, sizes, margins, paddings, borders, positioning, and more for HTML element
+HTML is a markup language used to structure content on web pages.
+It provides the basic building blocks of a webpage, such as text, images, links, headings, paragraphs, lists, tables, forms, and more.
+HTML is a markup language used to structure content on web pages.
+It provides the basic building blocks of a webpage, such as text, images, links, headings, paragraphs, lists, tables, forms, and more.
+Open source code refers to software code that is made freely available to the public, allowing anyone to view, modify, and distribute it. The source code is typically licensed under an open source license, which grants users certain rights to use, modify, and distribute the software.
+Create React App (CRA): Create React App is a command-line tool developed by Facebook that sets up a new React project with a sensible default configuration. It provides a modern build setup with no configuration required, allowing developers to focus on writing code.
+
+React Developer Tools: This is a browser extension available for Chrome and Firefox that allows developers to inspect React component hierarchies, view component props and state, and debug React applications more effectively.
+
+Redux: Redux is a predictable state container for JavaScript apps, often used with React to manage application state in a predictable manner. It helps in managing complex application states and enables better organization of data flow within React applications.
+
+React Router: React Router is a popular routing library for React applications. It enables developers to define and manage different routes within a single-page application, allowing for navigation between different views and components.
+
+Webpack: Webpack is a module bundler used to bundle JavaScript files for usage in a browser. It is often used in React projects to bundle JavaScript and assets, handle imports, and optimize code for production.
+
+Babel: Babel is a JavaScript compiler that allows developers to use the latest JavaScript features in their codebase by transforming newer JavaScript syntax into older versions that are supported by most browsers.
+
+ESLint: ESLint is a static code analysis tool used to find and fix problems in JavaScript code. It helps maintain code quality and consistency by enforcing coding standards and best practices.
+A library is a collection of reusable code modules or functions that can be directly called by an application to perform specific tasks or operations.
+In a library, the control flow of the application remains with the developer. The developer decides when and how to use the library's functionalities.
+A framework is a more comprehensive software package that provides a structured architecture and a set of rules, conventions, and pre-defined functionalities to guide the development of an application.
+In a framework, the control flow of the application is inverted. Instead of the developer calling the framework's functionalities, the framework calls the developer's code at specific points according to its predefined structure.
