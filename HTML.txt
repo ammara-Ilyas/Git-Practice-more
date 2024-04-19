@@ -5,7 +5,7 @@ History of HTML
 1997- HTML 3.0 was invented. Here, Dave Raggett introduced a fresh draft on HTML, which improved new features of HTML and gave more powerful characteristics for webmasters in designing websites. Unfortunately, the powerful features slowed down the browser in applying further improvements.
 1999- The widely-used HTML 4.0 comes out. It is very successful.
 2014- HTML 5.0 is released and used worldwide. It is said to be the extended version of HTML 4.01 which was published in 2012.
-
+HyperText Markup Language
 HTML
 Since its creation, the HyperText Markup Language has been responsible for instructing Browsers how to render content on Web Pages providing its structure. To make it possible, HTML uses an element tag syntax: the text content is written inside angle brackets to be categorized. 
 
