@@ -4,7 +4,7 @@ Experienced and enthusiastic React/Next.js developer skilled in building dynamic
 
 
 The player's objective is to select a number from within the range of 1 to 100. Winning the game is contingent upon the player accurately guessing the predetermined number. The player is allotted a maximum of ten opportunities to correctly identify the number. Following each guess, the player will receive guidance indicating whether the concealed number is greater or lesser than their estimation.
-'
+'these are commonly asked questions
 This React app enables language translation using the LibreTranslate API, allowing users to input text, select languages, and copy translated text to the clipboard.
 console.log(3>2>1)
 typeof NaN    NaN===NaN
